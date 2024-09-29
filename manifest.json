@@ -1,0 +1,11 @@
+{
+    "name": "Quotera",
+    "version": "1.0.0",
+    "description": "Quotes from book 2024",
+    "manifest_version": 3,
+    "author": "Jitianu Stefan",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Quotera"
+    }
+}
